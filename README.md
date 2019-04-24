@@ -1,2 +1,1 @@
-# gitknowledgesession
-Used for knowledge session for git
+This is the repository for the eProseed knowledge sesssion about git
